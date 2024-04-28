@@ -3,12 +3,22 @@
   "displayName": "proto-lit",
   "description": "A prototype for a Light Theme for VSCode IDE",
   "version": "0.0.1",
+  "publisher": "at-the-vr",
   "engines": {
     "vscode": "^1.88.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "themes",
+    "light"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/at-the-vr/proto-lit"
+  },
   "contributes": {
     "themes": [
       {
