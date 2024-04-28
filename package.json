@@ -1,0 +1,21 @@
+{
+  "name": "proto-lit",
+  "displayName": "proto-lit",
+  "description": "A prototype for a Light Theme for VSCode IDE",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Proto Lit",
+        "uiTheme": "vs",
+        "path": "./themes/Proto Lit-color-theme.json"
+      }
+    ]
+  }
+}
