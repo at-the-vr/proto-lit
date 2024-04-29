@@ -737,7 +737,7 @@
     "editorError.border": "#ffffff00",
     "editorError.foreground": "#f4587e",
     "editorGroup.border": "#343841",
-    "editorGroup.emptyBackground": "#171717",
+    "editorGroup.emptyBackground": "#faf5ff",
     "editorGroupHeader.border": "#ffffff00",
     "editorGroupHeader.tabsBorder": "#ffffff00",
     "editorHoverWidget.border": "#454545",
